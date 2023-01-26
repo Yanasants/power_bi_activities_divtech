@@ -14,5 +14,10 @@
   <img width="700" height="350" src="https://user-images.githubusercontent.com/59098432/213888562-c428a273-6ffa-4cd8-8674-2ffa7a310819.png">
 </p>
 
+<h2 align="center">Atividade do dia 24.01.2023</h2>
+
+<p align="center">
+  <img width="700" height="400" src="https://user-images.githubusercontent.com/59098432/214734117-bfb22d8b-5c88-4b81-84f2-b290cd0adf11.png">
+</p>
 
 
