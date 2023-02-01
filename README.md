@@ -25,3 +25,10 @@
 <p align="center">
   <img width="700" height="400" src="https://user-images.githubusercontent.com/59098432/215232402-b66d4607-35ba-449b-903d-6f2bb2e1076b.png">
 </p>
+
+<h2 align="center">Atividade do dia 30.01.2023</h2>
+
+<p align="center">
+  <img width="700" height="400" src="https://user-images.githubusercontent.com/59098432/216110651-5b3a3848-0473-49a4-81aa-0d617af19737.png">
+</p>
+
