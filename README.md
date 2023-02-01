@@ -29,6 +29,8 @@
 <h2 align="center">Atividade do dia 30.01.2023</h2>
 
 <p align="center">
-  <img width="700" height="400" src="https://user-images.githubusercontent.com/59098432/216110651-5b3a3848-0473-49a4-81aa-0d617af19737.png">
+  <img width="700" height="400" src="https://user-images.githubusercontent.com/59098432/216186792-ee7f9b34-594e-4817-9f59-eb5decbd3689.png">
 </p>
+
+
 
